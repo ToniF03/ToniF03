@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tonifey@protonmail.com**
 
-- 📄 Know about my experiences [Resume](tonif03.github.io/resume)
+- 📄 Know about my experiences [Resume](tonif03.github.io/resume) (to be added)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
