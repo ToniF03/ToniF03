@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Calcify](https://github.com/ToniF03/Calcify)
 
-- 🌱 I’m currently learning **Dart, C++ and C**
+- 🌱 I’m currently learning **Dart**
 
 - 👨‍💻 All of my projects are available at [my GitHub Repositories](https://github.com/ToniF03?tab=repositories)
 
